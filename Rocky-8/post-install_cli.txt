@@ -1,0 +1,3 @@
+dnf update -y
+reboot
+./post-install.sh
